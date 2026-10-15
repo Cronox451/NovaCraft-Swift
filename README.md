@@ -46,12 +46,21 @@ Ein performantes, Minecraft-inspiriertes Voxel-Spiel, entwickelt nativ für iPad
 
 ---
 
+## 📱 Voraussetzungen
+
+* **Gerät:** iPad (Stand jetzt wird **nur iPadOS** unterstützt; nicht für iPhone oder macOS optimiert).
+* **Software:** Die kostenlose App **[Swift Playgrounds](https://apps.apple.com/app/swift-playgrounds/id908519492)** muss auf dem iPad installiert sein (im App Store erhältlich).
+
+---
+
 ## 📦 Installation & Spielen
 
-1. Gehe rechts auf **Releases** und lade dir die Datei `NovaCraft.V.1.4Apha.zip` herunter.
-2. Öffne die Dateien-App auf deinem iPad und tippe auf die Datei, um sie zu entpacken.
-3. Tippe auf das entpackte `.swiftpm`-Paket – das Projekt öffnet sich direkt in **Swift Playgrounds**.
-4. Drücke oben auf den Play-Button `▶`, um das Spiel zu starten.
+1. Lade dir die kostenlose App **Swift Playgrounds** aus dem App Store herunter, falls du sie noch nicht hast.
+2. Gehe auf dieser GitHub-Seite rechts auf **Releases** und lade die Datei `NovaCraft.V.1.4Apha.zip` herunter.
+3. Öffne die **Dateien-App** auf deinem iPad (unter *Downloads*) und tippe einmal auf die `.zip`-Datei, um sie zu entpacken.
+4. Tippe auf das entpackte `.swiftpm`-App-Symbol – das Projekt öffnet sich automatisch direkt in **Swift Playgrounds**.
+5. Drücke oben auf den Start-Button `▶`, um die Welt zu laden und loszuspielen!
+
 
 ---
 
